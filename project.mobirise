@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "websiteNED03-17_0920",
-    "currentPage": "index.html",
+    "currentPage": "werkworking.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -757,16 +757,6 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531-800x612.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531.jpg",
-                "caption": "140x110cm, schilderdoek",
-                "active": true
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -775,6 +765,16 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc0505.jpg",
                 "caption": "70x50cm, schildersdoek",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531-800x612.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531.jpg",
+                "caption": "140x110cm, schilderdoek",
+                "active": true
               }
             ],
             "spacing": "6",
