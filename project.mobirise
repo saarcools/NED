@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-gallery4-0\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS..html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS..html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"INSPIRATION.html\" aria-expanded=\"false\">INSPRIRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tekeningen.html\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -149,7 +149,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca24-2000x1407.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -267,7 +267,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -325,7 +325,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x1139-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0090aca1-1.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -335,7 +335,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x1198-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1-1.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -365,7 +365,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x893-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1-1.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": true
               },
               {
@@ -375,7 +375,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x1293-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1-1.jpg",
-                "caption": "160x125m, canvas",
+                "caption": "160x125m, schildersdoek",
                 "active": false
               }
             ],
@@ -417,7 +417,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0413aca2-2000x2345-800x938-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0413aca2-2000x2345-2.jpg",
-                "caption": "145x120cm, canvas",
+                "caption": "145x120cm, schilderdoek",
                 "active": false
               },
               {
@@ -427,7 +427,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0408aca2-2000x1192-800x476-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0408aca2-2000x1192-2.jpg",
-                "caption": "wooden panels",
+                "caption": "houten panelen",
                 "active": false
               },
               {
@@ -437,7 +437,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0432aca2-2000x2051-800x820-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0432aca2-2000x2051-2.jpg",
-                "caption": "58x58cm, wooden panel",
+                "caption": "58x58cm, houten paneel",
                 "active": false
               },
               {
@@ -447,7 +447,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0434aca2-2000x2244-800x897-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0434aca2-2000x2244-2.jpg",
-                "caption": "65x60cm, wooden panel",
+                "caption": "65x60cm, houten paneel",
                 "active": false
               },
               {
@@ -457,7 +457,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0465aca2-2000x1971-800x788-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0465aca2-2000x1971-2.jpg",
-                "caption": "16x16cm, wooden panel",
+                "caption": "16x16cm, houten paneel",
                 "active": false
               },
               {
@@ -467,7 +467,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0461aca2-2000x1999-800x799-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999-4.jpg",
-                "caption": "66x66cm, wooden panel",
+                "caption": "66x66cm, houten paneel",
                 "active": false
               },
               {
@@ -477,7 +477,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0463aca2-2000x2078-800x831-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0463aca2-2000x2078-2.jpg",
-                "caption": "16x16cm, wooden panel",
+                "caption": "16x16cm, houten paneel",
                 "active": false
               },
               {
@@ -487,7 +487,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0435aca2-2000x2300-800x920-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0435aca2-2000x2300-2.jpg",
-                "caption": "60x65cm, wooden panel",
+                "caption": "60x65cm, houten paneel",
                 "active": false
               },
               {
@@ -497,7 +497,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068-2.jpg",
-                "caption": "16x16cm, wooden panel",
+                "caption": "16x16cm, houten paneel",
                 "active": true
               }
             ],
@@ -539,7 +539,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0287aca2-800x1255-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0287aca2-2.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -549,7 +549,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-800x1302-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -559,7 +559,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0494-800x1107-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0494-2.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -569,7 +569,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0489aca2-800x551-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0489aca2-2.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -579,7 +579,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x1158-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-1.jpg",
-                "caption": "A3, paper",
+                "caption": "A3, papier",
                 "active": false
               },
               {
@@ -589,7 +589,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0268aca2-800x1271-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0268aca2-2.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": false
               },
               {
@@ -599,7 +599,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x1134-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0488aca2-1.jpg",
-                "caption": "A4, paper",
+                "caption": "A4, papier",
                 "active": true
               }
             ],
@@ -631,7 +631,7 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -645,21 +645,7 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tumblr-om3g5nqh2d1t96ni3o1-2000x2325-2.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/zxlw8oix5ln28cqcozta-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -668,12 +654,12 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><br><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Inspiration :&nbsp;</span><br>Per Kirkeby <br>Danish painter, filmmaker,poet and sculptor<br>1938-...</p>",
+                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><br><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Inspiration :&nbsp;</span><br>Per Kirkeby <br>Duitse schilder , filmmaker, poët, beeldhouwer<br>1938-...</p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dd9ngltcktts3ox2mexm-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -682,7 +668,7 @@
                 "showTitle": false,
                 "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p>Richard Diebenkorn<br>American painter<br>1922-1993</p>",
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p>Richard Diebenkorn<br>Amerikaanse schilder<br>1922-1993</p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -775,10 +761,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x609.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0503.jpg",
-                "caption": "140x110cm, canvas",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531-800x612.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531.jpg",
+                "caption": "140x110cm, schilderdoek",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -787,8 +773,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x602.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0505.jpg",
-                "caption": "70x50cm, canvas",
-                "active": true
+                "caption": "70x50cm, schildersdoek",
+                "active": false
               }
             ],
             "spacing": "6",
