@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -219,7 +219,7 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/atelier2.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoUrl": "",
                 "overlay": false,
                 "contentAlign": "right",
                 "showTitle": false,
@@ -498,6 +498,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068-2.jpg",
                 "caption": "16x16cm, houten paneel",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0624-2000x1554-800x621.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0624-2000x1554.jpg",
+                "caption": "110x140cm, schildersdoek<br><br>",
                 "active": true
               }
             ],
@@ -771,8 +781,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531-800x612.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-2000x1531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0623-2000x1547-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0623-2000x1547.jpg",
                 "caption": "140x110cm, schilderdoek",
                 "active": true
               }
