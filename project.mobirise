@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -203,7 +203,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atelier.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0683-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -217,7 +217,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atelier2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/atelier2-2000x1488.jpg",
                 "playVideo": false,
                 "videoUrl": "",
                 "overlay": false,
@@ -231,7 +231,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/atelier3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/atelier3-2000x1367.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -380,8 +380,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x1139-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-2000x2848-800x1139.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca1-2000x2848.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -390,8 +390,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x1198-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1-2000x2995.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -400,8 +400,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x1132-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-2000x2831-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca1-2000x2831.jpg",
                 "caption": "A4, paper",
                 "active": false
               },
@@ -410,8 +410,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x1201-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-2000x3004-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca1-2000x3004.jpg",
                 "caption": "A4, paper",
                 "active": false
               },
@@ -420,20 +420,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x893-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-2000x2234-800x893.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1-2000x2234.jpg",
                 "caption": "A4, papier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x1293-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-2000x3232-800x1292.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1-2000x3232.jpg",
                 "caption": "160x125m, schildersdoek",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "6",
@@ -531,7 +531,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tekeningen.html\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -557,18 +557,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0408aca2-2000x1192-800x476-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0408aca2-2000x1192-2.jpg",
-                "caption": "houten panelen",
-                "active": true
-              },
-              {
-                "tags": "2016",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0432aca2-2000x2051-800x820-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0432aca2-2000x2051-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0432aca2-2000x2051-800x820.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0432aca2-2000x2051.jpg",
                 "caption": "58x58cm, houten paneel",
                 "active": false
               },
@@ -577,8 +567,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0434aca2-2000x2244-800x897-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0434aca2-2000x2244-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0434aca2-2000x2244-800x897.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0434aca2-2000x2244.jpg",
                 "caption": "65x60cm, houten paneel",
                 "active": false
               },
@@ -587,8 +577,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0465aca2-2000x1971-800x788-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0465aca2-2000x1971-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0465aca2-2000x1970-800x788.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0465aca2-2000x1970.jpg",
                 "caption": "16x16cm, houten paneel",
                 "active": false
               },
@@ -597,8 +587,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0461aca2-2000x1999-800x799-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0461aca2-2000x1999-800x799.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999.jpg",
                 "caption": "66x66cm, houten paneel",
                 "active": false
               },
@@ -607,8 +597,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0463aca2-2000x2078-800x831-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0463aca2-2000x2078-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0463aca2-2000x2077-800x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0463aca2-2000x2077.jpg",
                 "caption": "16x16cm, houten paneel",
                 "active": false
               },
@@ -617,8 +607,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0435aca2-2000x2300-800x920-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0435aca2-2000x2300-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0435aca2-2000x2300-800x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0435aca2-2000x2300.jpg",
                 "caption": "60x65cm, houten paneel",
                 "active": false
               },
@@ -627,8 +617,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068.jpg",
                 "caption": "16x16cm, houten paneel",
                 "active": false
               },
@@ -640,7 +630,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0624-2000x1554-800x621.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0624-2000x1554.jpg",
                 "caption": "110x140cm, schildersdoek<br><br>",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "6",
@@ -738,7 +728,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tekeningen.html\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -779,7 +769,7 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "<p><br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></b></p><b><br></b><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><br><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Per Kirkeby &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">1938-...</b></p>",
+                "text": "<p><br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></b></p><b><br></b><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><br><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Per Kirkeby &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -793,12 +783,12 @@
                 "showTitle": false,
                 "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p><b>Richard Diebenkorn<br>1922-1993</b></p>",
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p><b>Richard Diebenkorn<br></b></p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/image-5-key-2000x999.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -807,21 +797,7 @@
                 "showTitle": false,
                 "title": "BACKGROUND VIDEO",
                 "showText": true,
-                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>David Hockney &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1937-...</b></span></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br></p>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/d0761698b8f2a9666da6344f820f150b-2000x1533.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": true,
-                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><br><b>Henri Mattisse<br>1869-1954&nbsp;</b><p><br></p><p><br></p>",
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>David Hockney &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></span></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br></p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -914,7 +890,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tekeningen.html\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -940,20 +916,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0678-2000x4081-800x1632.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0678-2000x4081.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0678-2000x4080-800x1632.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0678-2000x4080.jpg",
                 "caption": "190x140cm, schildersdoek",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0623-2000x1547-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0623-2000x1547.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0623-1-2000x1547-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0623-1-2000x1547.jpg",
                 "caption": "140x110cm, schilderdoek",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "6",
@@ -1051,7 +1027,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tekeningen.html\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -1077,8 +1053,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0287aca2-800x1255-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0287aca2-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0287aca2-2000x3137-800x1254.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0287aca2-2000x3137.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -1087,18 +1063,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-800x1302-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2.jpg",
-                "caption": "A4, papier",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0494-800x1107-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0494-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255-800x1302.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -1107,8 +1073,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0489aca2-800x551-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0489aca2-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0489aca2-2000x1379-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0489aca2-2000x1379.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -1117,8 +1083,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x1158-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-2000x2896-800x1158.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0258aca2-2000x2896.jpg",
                 "caption": "A3, papier",
                 "active": false
               },
@@ -1127,20 +1093,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0268aca2-800x1271-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0268aca2-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0268aca2-2000x3178-800x1271.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0268aca2-2000x3178.jpg",
                 "caption": "A4, papier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x1134-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0488aca2-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-2000x2837-800x1134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0488aca2-2000x2837.jpg",
                 "caption": "A4, papier",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "6",
@@ -1394,6 +1360,59 @@
       },
       "components": [
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0732-2000x1310-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0732-2000x1310.jpg",
+                "caption": "papier, oliekrijt",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0737-2000x1373-800x549.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0737-2000x1373.jpg",
+                "caption": "papier, oliekrijt",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0734-2000x1486-800x594.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0734-2000x1486.jpg",
+                "caption": "papier, oliekrijt",
+                "active": true
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-s",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1447,7 +1466,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-r",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#7c706b",
             "fontSize": "0.9",
@@ -1477,69 +1496,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016 .html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\">2017</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Tekeningen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">tekeningen</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"naaktmodel.html\">naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schetsen.html\">schetsen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werkworking.html\">werk in wording</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inspiriatie.html\" aria-expanded=\"false\">INSPiRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0732-800x524.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0732.jpg",
-                "caption": "papier, oliekrijt",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0737-800x549.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0737.jpg",
-                "caption": "papier, oliekrijt",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0734-800x594.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0734.jpg",
-                "caption": "papier, oliekrijt",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0733-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0733.jpg",
-                "caption": "papier, oliekrijt",
-                "active": true
-              }
-            ],
-            "spacing": "6",
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-s",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     }
