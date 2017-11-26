@@ -2781,9 +2781,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "werkworking.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media5": {
@@ -2811,13 +2812,13 @@
           "title1": "<span style=\"font-weight: normal;\"><a href=\"2017.html\" class=\"text-black\">houten panelen</a></span>",
           "subtitle1": "",
           "caption1": ".",
-          "title2": "<span style=\"font-weight: normal;\">tekeningen</span>",
+          "title2": "<span style=\"font-weight: normal;\"><a href=\"schetsen.html\" class=\"text-black\">tekeningen</a></span>",
           "subtitle2": "oliekrijt op papier",
           "caption2": "",
           "title3": "<span style=\"font-weight: normal;\"><a href=\"2016 .html\" class=\"text-black\">tekeningen</a></span>",
           "subtitle3": "olieverf op papier",
           "caption3": "",
-          "title4": "<span style=\"font-weight: normal;\">schilderijen</span>",
+          "title4": "<span style=\"font-weight: normal;\"><a href=\"werkworking.html\" class=\"text-black\">schilderijen</a></span>",
           "subtitle4": "op canvas",
           "caption4": "",
           "title5": "Trendy Website Blocks",
