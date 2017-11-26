@@ -309,7 +309,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">tekeningen, olieverf op papier&nbsp;</span>",
+          "text": "<span style=\"font-weight: normal;\">tekeningen</span><br><span style=\"font-weight: normal;\">olieverf op papier&nbsp;</span>",
           "_tags": [
             "Theme"
           ],
@@ -1202,7 +1202,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">tekeningen, oliepastel op papier</span>",
+          "text": "<span style=\"font-weight: normal;\">tekeningen</span><br><span style=\"font-weight: normal;\">oliepastel op papier</span>",
           "_tags": [
             "Theme"
           ],
@@ -2522,7 +2522,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">atelier Alexianenplein</span>",
+          "text": "<span style=\"font-weight: normal;\">atelier </span><br><span style=\"font-weight: normal;\">Alexianenplein</span>",
           "_tags": [
             "Theme"
           ],
