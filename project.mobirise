@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 82,
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -173,7 +175,7 @@
           },
           "title": "Saar Cools<br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED/index.html\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
         },
         {
           "_params": {
@@ -263,12 +265,12 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
+          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\" class=\"text-white\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -298,7 +300,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -306,7 +313,7 @@
       "settings": {
         "title": "drawings oilpaint 2016",
         "meta_descr": "Web Page Builder Description",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -503,7 +510,7 @@
       "settings": {
         "title": "wooden panels 2016",
         "meta_descr": "Site Creator Description",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -701,7 +708,7 @@
       "settings": {
         "title": "paintings 2016",
         "meta_descr": "Web Page Builder Description",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1065,12 +1072,12 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\" class=\"text-white\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1100,7 +1107,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -1199,7 +1211,7 @@
       "settings": {
         "title": "drawings oilpastel 2016",
         "meta_descr": "Website Builder Description",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1387,7 +1399,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "2017",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1500,7 +1512,7 @@
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "2",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1573,7 +1585,7 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page13.html",
+              "link": "page15.html",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -1581,13 +1593,15 @@
           },
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "more-horizontal",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page13.html",
               "size": 0,
               "color": "black",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "<a href=\"page12.html\" class=\"text-black\" style=\"font-weight: normal;\">houten panelen</a>",
@@ -1602,12 +1616,12 @@
           "title4": "<span style=\"font-weight: normal;\"><a href=\"naaktmodel.html\" class=\"text-black\">naaktmodel</a></span>",
           "subtitle4": "tekeningen",
           "caption4": "",
-          "title5": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">atelier</a></span>",
-          "subtitle5": "LUCA school of Arts",
+          "title5": "<span style=\"font-weight: normal;\"><a href=\"page15.html\" class=\"text-black\">schetsen</a></span>",
+          "subtitle5": "vilt met stoffen draad",
           "caption5": ".",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">atelier</a></span>",
+          "subtitle6": "LUCA school of Arts Gent",
+          "caption6": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1655,7 +1669,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "nudelmodel 2016",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1983,6 +1997,28 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bigworkaca3-2-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bigworkaca3-2.jpg",
                 "caption": "200x145cm , canvas",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca32-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca32-1890x1417.jpg",
+                "caption": "127x94cm , canvas",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca31-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca31-1890x1417.jpg",
+                "caption": "120x90cm , canvas",
                 "active": true,
                 "alt": ""
               }
@@ -2002,7 +2038,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "drawings 2017",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2226,7 +2262,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "wooden panels 2017",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -2428,7 +2464,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "workspace 2017",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -2608,7 +2644,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "2016",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2867,6 +2903,197 @@
           ],
           "_name": "header1",
           "_anchor": "header1-23"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "schetsen met vilt 2017",
+        "order": 11
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">schetsen op vilt </span><br><span style=\"font-weight: normal;\">met stoffen draad</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-29"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-27"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stof2-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stof2-1890x1417.jpg",
+                "caption": "7 x 15cm",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stof1-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stof1-1890x1417.jpg",
+                "caption": "8 x 5cm",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stof3-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stof3-1890x1417.jpg",
+                "caption": "8 x 5cm",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-28"
         }
       ]
     }
