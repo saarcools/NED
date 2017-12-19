@@ -173,7 +173,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Saar Cools<br>",
+          "title": "Saar Cools&nbsp;<br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED/index.html\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
         },
