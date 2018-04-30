@@ -161,7 +161,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/minipanel2aca3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aca3drawing1-1-1890x1417.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3561,6 +3561,28 @@
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417.jpg",
                 "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/compost7-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/compost7-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3compost5-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3compost5-1890x1417.jpg",
+                "caption": "&nbsp;",
                 "active": true,
                 "alt": ""
               }
@@ -3898,6 +3920,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3drawing1-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3drawing1-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3compostii-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3compostii-1890x1417.jpg",
                 "caption": "&nbsp;",
                 "active": true,
                 "alt": ""
