@@ -30,7 +30,7 @@
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/aca3jury4-128x95.png",
+    "favicon": "@PROJECT_PATH@/assets/images/aca3jury4-128x95-1.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93893761-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
@@ -3518,7 +3518,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury2-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury2-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "&nbsp;128X94cm, canvas",
                 "active": false,
                 "alt": ""
               },
@@ -3529,7 +3529,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury4-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury4-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "&nbsp;30x25cm, canvas",
                 "active": false,
                 "alt": ""
               },
@@ -3540,7 +3540,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury6-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury6-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "&nbsp;40x30cm, canvas",
                 "active": false,
                 "alt": ""
               },
@@ -3551,7 +3551,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "&nbsp;30x25cm, canvas",
                 "active": false,
                 "alt": ""
               },
@@ -3562,7 +3562,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aca3jury5-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca3jury5-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "&nbsp;40x30cm, canvas",
                 "active": false,
                 "alt": ""
               },
@@ -3573,7 +3573,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-1890x1417.jpg",
-                "caption": "&nbsp;",
+                "caption": "65x45cm, canvas&nbsp;",
                 "active": true,
                 "alt": ""
               }
